@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{59972000-A102-93F3-E252-4AFE00D882C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/powerup.cs">
+    <Files>
+      <File FileName="Assets/PlayerControl.cs" Line="100" Column="6" />
+      <File FileName="Assets/Fireball.cs" />
+      <File FileName="Assets/BallControl.cs" />
+      <File FileName="Assets/SideWall.cs" />
+      <File FileName="Assets/GameManager.cs" />
+      <File FileName="Assets/Trajectory.cs" />
+      <File FileName="Assets/powerup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pong" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerControl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b9eef44-d024-46de-8acc-5d5f524e4313" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
